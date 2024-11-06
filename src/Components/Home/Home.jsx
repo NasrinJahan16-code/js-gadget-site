@@ -1,6 +1,6 @@
 import banner from '../../assets/banner.jpg'
 import { useEffect, useState } from "react";
-import { useNavigate } from "react-router-dom"; // Added useNavigate import
+import {  Link, useNavigate } from "react-router-dom"; // Added useNavigate import
 
 import gadgetsData from "../../assets/gadgets.json";
 
@@ -107,6 +107,7 @@ const Home = () => {
                       {gadget.product_title}
                     </h3>
                     <p className="text-[16px] mb-2">Price:${gadget.price}</p>
+                    <Link>
                     <button
                       className="btn btn-outline btn-secondary"
                       onClick={(event) =>
@@ -114,6 +115,7 @@ const Home = () => {
                       }>
                         View Details
                     </button>
+                    </Link>
                   </>
                 ) : (
                   <h3 className="text-[20px] font-bold mb-2">

@@ -2,9 +2,11 @@
 
 const Footer = () => {
     return (
-       <div className="bg-neutral text-neutral-content text-center" >
-        <h2>Gadget Heaven</h2>
-        <p></p>
+       <div className="bg-violet-300 text-black text-center" >
+        <h2 className="text-4xl font-bold pt-8">Gadget Heaven</h2>
+        <p className="">Gadget & Gear apart is our commitment to delivering products of the highest quality
+         with guaranteed authenticity, official warranty, attractive<br/> discount offers, convenient EMI financing, and thoughtful gifts with select purchases. At Gadget & Gear, we strive to ensure
+          that our<br/> valued customers have a seamless and enjoyable tech shopping experience. </p>
         <br />
         <footer className="footer  p-10">
             

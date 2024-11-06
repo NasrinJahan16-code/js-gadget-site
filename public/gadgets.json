@@ -1,0 +1,106 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "MacBook Pro",
+    "product_image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Pro-M2-Pro-and-M2-Max-hero-230117.jpg.news_app_ed.jpg",
+    "category": "Computers",
+    "price": 1200,
+    "description": "The latest high-performance laptop for professionals.",
+    "specification": ["16GB RAM", "512GB SSD", "Intel i7 Processor"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 2,
+    "product_title": "OPPO X",
+    "product_image": "https://assorted.downloads.oppo.com/static/assets/images/products/findx/1920/sec-5-phone-3b5ba3fa48e3cee70d35806a04f2e3cdf5e4e0e8.jpg",
+    "category": "Phones",
+    "price": 999,
+    "description": "A top-of-the-line smartphone with cutting-edge features.",
+    "specification": ["128GB Storage", "6.5-inch OLED Display", "5G Support"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 3,
+    "product_title": "Wireless Earbuds",
+    "product_image": "https://media.wired.com/photos/59e94ff8ce22fd0cca3c5242/master/w_2560%2Cc_limit/headphones-edit-1.jpg",
+    "category": "Accessories",
+    "price": 199,
+    "description": "High-quality wireless earbuds with noise-cancellation.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Active Noise Cancellation",
+      "20 Hours Battery"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 4,
+    "product_title": "Apple Watch 6",
+    "product_image": "https://cdn.mos.cms.futurecdn.net/KkFNWYbjXjQDNG8d7C55uh.jpg",
+    "category": "Smart Watches",
+    "price": 349,
+    "description": "Advanced smartwatch with health tracking and GPS.",
+    "specification": ["Heart Rate Monitor", "GPS", "Waterproof"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 5,
+    "product_title": "MacBook Air 2024",
+    "product_image": "https://i.rtings.com/assets/products/PJVl4IEm/apple-macbook-air-13-2024/design-medium.jpg?format=auto",
+    "category": "Computers",
+    "price": 1099,
+    "description": "The lightest and most efficient MacBook Air yet.",
+    "specification": ["8GB RAM", "256GB SSD", "Apple M1 Chip"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 6,
+    "product_title": "iPhone 15",
+    "product_image": "https://images.macrumors.com/article-new/2023/09/iPhone-15-General-Feature-Black.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "The latest iPhone with advanced camera technology.",
+    "specification": ["128GB Storage", "Dual Camera", "Face ID"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 7,
+    "product_title": "Wireless Charger",
+    "product_image": "https://m.media-amazon.com/images/I/611xqP657xL._AC_UF894,1000_QL80_.jpg",
+    "category": "Chargers",
+    "price": 75,
+    "description": "Fast wireless charger for all compatible devices.",
+    "specification": ["Fast Charging", "Qi Compatible", "Compact Design"],
+    "availability": false,
+    "rating": 4.2
+  },
+  {
+    "product_id": 8,
+    "product_title": "iPhone 16",
+    "product_image": "https://i.ibb.co.com/kD6S9N7/images.jpg",
+    "category": "Phones",
+    "price": 1175,
+    "description": "The latest iPhone with advanced camera technology..",
+    "specification": ["128GB Storage", "Dual Camera", "Face ID"],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": 9,
+    "product_title": "iPhone 16 Pro",
+    "product_image": "https://i.ibb.co.com/FVLdFbL/download.jpg",
+    "category": "Phones",
+    "price": 1180,
+    "description": "iPhone 16 Pro features a Grade 5 titanium design with a new, refined microblasted texture. Titanium has one of the highest strength-to-weight ratios of any metal, making these models incredibly strong and impressively light..",
+    "specification": ["128GB Storage", "Dual Camera", "Face ID"],
+    "availability": false,
+    "rating": 4.8
+  }
+]
+
