@@ -5,29 +5,29 @@
     "product_image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Pro-M2-Pro-and-M2-Max-hero-230117.jpg.news_app_ed.jpg",
     "category": "Computers",
     "price": 1200,
-    "description": "The latest high-performance laptop for professionals.",
+    "description": "The MacBook Pro is Apple's high-performance laptop designed for power users, creatives, and professionals. It combines sleek design with top-of-the-line hardware, making it ideal for intensive tasks like video editing, music production, and software development..",
     "specification": ["16GB RAM", "512GB SSD", "Intel i7 Processor"],
     "availability": true,
     "rating": 4.7
   },
   {
     "product_id": 2,
-    "product_title": "OPPO X",
+    "product_title": "OPPO ",
     "product_image": "https://assorted.downloads.oppo.com/static/assets/images/products/findx/1920/sec-5-phone-3b5ba3fa48e3cee70d35806a04f2e3cdf5e4e0e8.jpg",
     "category": "Phones",
-    "price": 999,
-    "description": "A top-of-the-line smartphone with cutting-edge features.",
+    "price": 99,
+    "description": "Oppo phones are known for their sleek designs, innovative features, and competitive pricing, making them popular worldwide, especially in markets like Asia and Europe.",
     "specification": ["128GB Storage", "6.5-inch OLED Display", "5G Support"],
     "availability": false,
     "rating": 4.6
   },
   {
     "product_id": 3,
-    "product_title": "Wireless Earbuds",
+    "product_title": "Wireless EarPhone",
     "product_image": "https://media.wired.com/photos/59e94ff8ce22fd0cca3c5242/master/w_2560%2Cc_limit/headphones-edit-1.jpg",
     "category": "Accessories",
     "price": 199,
-    "description": "High-quality wireless earbuds with noise-cancellation.",
+    "description": "They offer a tangle-free listening experience and often come with advanced features for a great audio experience. Here’s a general overview:",
     "specification": [
       "Bluetooth 5.0",
       "Active Noise Cancellation",
@@ -42,7 +42,7 @@
     "product_image": "https://cdn.mos.cms.futurecdn.net/KkFNWYbjXjQDNG8d7C55uh.jpg",
     "category": "Smart Watches",
     "price": 349,
-    "description": "Advanced smartwatch with health tracking and GPS.",
+    "description": "They offer a tangle-free listening experience and often come with advanced features for a great audio experience. Here’s a general overview:",
     "specification": ["Heart Rate Monitor", "GPS", "Waterproof"],
     "availability": true,
     "rating": 4.5
@@ -53,7 +53,7 @@
     "product_image": "https://i.rtings.com/assets/products/PJVl4IEm/apple-macbook-air-13-2024/design-medium.jpg?format=auto",
     "category": "Computers",
     "price": 1099,
-    "description": "The lightest and most efficient MacBook Air yet.",
+    "description": "Apple’s lightest and most portable laptop, designed for everyday use with an emphasis on portability, power, and efficiency. It’s ideal for students, professionals, and anyone needing a reliable device for day-to-day tasks like web browsing, content creation, and light multitasking..",
     "specification": ["8GB RAM", "256GB SSD", "Apple M1 Chip"],
     "availability": true,
     "rating": 4.8
@@ -64,7 +64,7 @@
     "product_image": "https://images.macrumors.com/article-new/2023/09/iPhone-15-General-Feature-Black.jpg",
     "category": "Phones",
     "price": 1199,
-    "description": "The latest iPhone with advanced camera technology.",
+    "description": "The latest iPhone with advanced camera technology. Enhanced capabilities for capturing sharp, vibrant photos in diverse lighting conditions.",
     "specification": ["128GB Storage", "Dual Camera", "Face ID"],
     "availability": true,
     "rating": 4.9
@@ -75,7 +75,7 @@
     "product_image": "https://m.media-amazon.com/images/I/611xqP657xL._AC_UF894,1000_QL80_.jpg",
     "category": "Chargers",
     "price": 75,
-    "description": "Fast wireless charger for all compatible devices.",
+    "description": "Most wireless chargers use the Qi standard, which is widely supported across major devices, including iPhones, Samsung Galaxy phones, Google Pixel, and other brands.",
     "specification": ["Fast Charging", "Qi Compatible", "Compact Design"],
     "availability": false,
     "rating": 4.2
@@ -86,7 +86,7 @@
     "product_image": "https://i.ibb.co.com/kD6S9N7/images.jpg",
     "category": "Phones",
     "price": 1175,
-    "description": "The latest iPhone with advanced camera technology..",
+    "description": "The latest iPhone with advanced camera technology.Replaces the Lightning port, aligning with industry standards and offering faster data transfer, especially on the Pro models (up to 10 Gbps with USB 3).",
     "specification": ["128GB Storage", "Dual Camera", "Face ID"],
     "availability": false,
     "rating": 4.8
