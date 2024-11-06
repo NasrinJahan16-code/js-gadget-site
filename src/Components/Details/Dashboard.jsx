@@ -63,7 +63,7 @@ const notify = (message) => {
 
     return (
         <div>
-            hiii dashboartd
+             Dashboard
             <div className="p-5 text-white bg-[#9538E2] flex flex-col  pt-[50px] pb-[80px] relative items-center justify-center">
         <h2 className="text-[32px] font-bold">Dashboard</h2>
         <p className="max-w-[796px] text-center text-[16px]">
