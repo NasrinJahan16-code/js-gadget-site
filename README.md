@@ -1,8 +1,11 @@
-# React + Vite
+Project Name : Gadget Heaven 
+Live Link:
+Project Requirement:
+Project overview:The Gadget Heaven Store is a mock e-commerce platform where users can:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Browse a variety of gadgets and electronic devices.
+View product details, including specifications and price.
+Add items to their cart.
+Proceed through a checkout process.
+The application uses a modular and component-based architecture, making it easy to maintain and scale.
+Benifit: "hey enable us to communicate with others quickly, access information quickly from a variety of sources, take photos and videos as well as store files securely. Gadgets also provide entertainment with games, music, and movies."
