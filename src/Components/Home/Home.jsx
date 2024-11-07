@@ -93,7 +93,7 @@ const Home = () => {
           <h2 className="text-center text-[40px] font-bold text-[#0B0B0B] mb-4">
             Explore Cutting-Edge Gadgets
           </h2>
-          <div className="grid grid-cols-3 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             {gadgets.map((gadget) => (
               <div key={gadget.product_id} className="card card-bordered p-4">
                 {gadget.product_id !== 0 ? (
