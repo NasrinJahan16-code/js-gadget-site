@@ -88,7 +88,7 @@
     "price": 1175,
     "description": "The latest iPhone with advanced camera technology..",
     "specification": ["128GB Storage", "Dual Camera", "Face ID"],
-    "availability": false,
+    "availability": true,
     "rating": 4.8
   },
   {
@@ -99,7 +99,7 @@
     "price": 1180,
     "description": "iPhone 16 Pro features a Grade 5 titanium design with a new, refined microblasted texture. Titanium has one of the highest strength-to-weight ratios of any metal, making these models incredibly strong and impressively light..",
     "specification": ["128GB Storage", "Dual Camera", "Face ID"],
-    "availability": false,
+    "availability": true,
     "rating": 4.8
   }
 ]
